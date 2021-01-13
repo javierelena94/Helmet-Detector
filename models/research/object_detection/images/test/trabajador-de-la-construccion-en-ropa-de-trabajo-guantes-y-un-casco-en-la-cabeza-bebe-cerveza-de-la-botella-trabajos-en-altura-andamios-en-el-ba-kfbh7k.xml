@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>trabajador-de-la-construccion-en-ropa-de-trabajo-guantes-y-un-casco-en-la-cabeza-bebe-cerveza-de-la-botella-trabajos-en-altura-andamios-en-el-ba-kfbh7k.jpg</filename>
+	<path>C:\tensorflow1\models\research\object_detection\images\test\trabajador-de-la-construccion-en-ropa-de-trabajo-guantes-y-un-casco-en-la-cabeza-bebe-cerveza-de-la-botella-trabajos-en-altura-andamios-en-el-ba-kfbh7k.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1300</width>
+		<height>956</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>casco</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>312</xmin>
+			<ymin>61</ymin>
+			<xmax>623</xmax>
+			<ymax>345</ymax>
+		</bndbox>
+	</object>
+</annotation>

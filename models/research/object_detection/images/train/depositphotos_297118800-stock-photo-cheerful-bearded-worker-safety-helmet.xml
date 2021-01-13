@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>depositphotos_297118800-stock-photo-cheerful-bearded-worker-safety-helmet.jpg</filename>
+	<path>C:\tensorflow1\models\research\object_detection\images\train\depositphotos_297118800-stock-photo-cheerful-bearded-worker-safety-helmet.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1600</width>
+		<height>1168</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>casco</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>455</xmin>
+			<ymin>19</ymin>
+			<xmax>789</xmax>
+			<ymax>270</ymax>
+		</bndbox>
+	</object>
+</annotation>

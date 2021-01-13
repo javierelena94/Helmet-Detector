@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>516YSIAxILACSX355.jpg</filename>
+	<path>C:\tensorflow1\models\research\object_detection\images\train\516YSIAxILACSX355.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>355</width>
+		<height>355</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>casco</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>30</xmin>
+			<ymin>59</ymin>
+			<xmax>336</xmax>
+			<ymax>279</ymax>
+		</bndbox>
+	</object>
+</annotation>

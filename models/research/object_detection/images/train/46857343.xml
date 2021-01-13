@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>46857343.jpg</filename>
+	<path>C:\tensorflow1\models\research\object_detection\images\train\46857343.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1300</width>
+		<height>867</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>casco</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>350</xmin>
+			<ymin>28</ymin>
+			<xmax>556</xmax>
+			<ymax>173</ymax>
+		</bndbox>
+	</object>
+</annotation>

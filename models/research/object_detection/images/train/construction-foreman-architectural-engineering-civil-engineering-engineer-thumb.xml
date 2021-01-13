@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>construction-foreman-architectural-engineering-civil-engineering-engineer-thumb.jpg</filename>
+	<path>C:\tensorflow1\models\research\object_detection\images\train\construction-foreman-architectural-engineering-civil-engineering-engineer-thumb.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>310</width>
+		<height>307</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>casco</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>147</xmin>
+			<ymin>14</ymin>
+			<xmax>260</xmax>
+			<ymax>93</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>hard-hats-getting-a-job-in-the-construction-industry-construction-worker-occupational-safety-and-health-construction-materials.jpg</filename>
+	<path>C:\tensorflow1\models\research\object_detection\images\train\hard-hats-getting-a-job-in-the-construction-industry-construction-worker-occupational-safety-and-health-construction-materials.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>728</width>
+		<height>771</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>casco</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>248</xmin>
+			<ymin>33</ymin>
+			<xmax>451</xmax>
+			<ymax>187</ymax>
+		</bndbox>
+	</object>
+</annotation>
